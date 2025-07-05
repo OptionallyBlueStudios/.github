@@ -14,4 +14,4 @@ We are OptionallyBlueStudios.. We are a games studio that, ironically, also make
 
 You can contact us via contacts in the discussions tab!
 
-# [optb.short.gy](optb.short.gy) <-- VIEW OUR SOCIALS AND ALL LINKS
+# [Guilded](https://www.guilded.gg/i/k1nZALBp?cid=4fd49334-48c9-4754-a880-e9d50f1337dd) <-- JOIN OUR GUILD
