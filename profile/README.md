@@ -1,3 +1,8 @@
+[![Discord](https://img.shields.io/discord/1391398661950410823?label=discord&logo=discord&style=flat-rounded)](https://optb.short.gy/discord)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-rounded)](https://www.youtube.com/@OPTB.OptionallyBlueStudios?sub_confirmation=1)
+[![GitHub](https://img.shields.io/badge/GitHub-OptionallyBlueStudios-181717?logo=github&style=flat-rounded)](https://github.com/OptionallyBlueStudios)
+[![Email](https://img.shields.io/badge/email-optionallybluestudios%40googlegroups.com-blue?style=flat&logo=gmail&logoColor=white&rounded=true)](mailto:optionallybluestudios@googlegroups.com)
+
 ## Hi there 👋
 
 <!--
