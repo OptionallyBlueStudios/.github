@@ -20,3 +20,6 @@ We are OptionallyBlueStudios.. We are a games studio that, ironically, also make
 You can contact us via contacts in the discussions tab!
 
 # [Discord](https://optb.short.gy/discord) <-- Join our discord
+
+> [!NOTE]
+> We are NOT hiring- this is a private studio (sorry!)
