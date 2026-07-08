@@ -1,25 +1,13 @@
-[![Discord](https://img.shields.io/discord/1391398661950410823?label=discord&logo=discord&style=flat-rounded)](https://optb.short.gy/discord)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-rounded)](https://www.youtube.com/@OPTB.OptionallyBlueStudios?sub_confirmation=1)
-[![GitHub](https://img.shields.io/badge/GitHub-OptionallyBlueStudios-181717?logo=github&style=flat-rounded)](https://github.com/OptionallyBlueStudios)
-[![Email](https://img.shields.io/badge/email-optionallybluestudios%40googlegroups.com-blue?style=flat&logo=gmail&logoColor=white&rounded=true)](mailto:optionallybluestudios@googlegroups.com)
+[![Discord](https://img.shields.io/discord/1391398661950410823?label=discord&logo=discord&style=flat-square)](https://optb.short.gy/discord)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-square)](https://www.youtube.com/@OPTB.OptionallyBlueStudios?sub_confirmation=1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&style=flat-square)](https://optb.short.gy/whatsapp)
+[![itch.io](https://img.shields.io/badge/itch.io-Follow-FA5C5C?logo=itchdotio&logoColor=white&style=flat-square)](https://optionallybluestudios.itch.io)
+[![GitHub](https://img.shields.io/badge/GitHub-OptionallyBlueStudios-181717?logo=github&style=flat-square)](https://github.com/OptionallyBlueStudios)
+[![Email](https://img.shields.io/badge/email-hello%40optb.qzz.io-blue?style=flat-square&logo=gmail&logoColor=white&rounded=true)](mailto:hello@optb.qzz.io)
 
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-We are OptionallyBlueStudios.. We are a games studio that, ironically, also makes a [cheat engine](https://github.com/optionallybluestudios/CheatSpy). We currently don't have any games out, but you can check out our [roblox games studio, RedOptionStudios](https://red-option-studios.github.io). (To see more that we make, click [here](https://optionallybluestudios.github.io/.github/infopage/whatelsemake)) We also ALL like Minecraft and some of us have an obsession with Satisfactory, so thats why we decided to make a [minecraft Satisfactory-Inspired modpack, Satiscraftory](https://satiscraftory-modpack-developers.github.io/Website) (It will say not secure but thats only because we cant get an SSL certificate... :( )
-
-You can contact us via contacts in the discussions tab!
-
-# [Discord](https://optb.short.gy/discord) <-- Join our discord
+We are OptionallyBlueStudios, a small indie game and software development studio based in the UK. We have a medium sized team working on some big projects including our flagship game, [S.C.A.N.](https://scamgame.optb.qzz.io).
 
 > [!NOTE]
 > We are NOT hiring- this is a private studio (sorry!)
