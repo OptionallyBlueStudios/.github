@@ -7,7 +7,7 @@
 
 ## Hi there 👋
 
-We are OptionallyBlueStudios, a small indie game and software development studio based in the UK. We have a medium sized team working on some big projects including our flagship game, [S.C.A.N.](https://scamgame.optb.qzz.io).
+We are OptionallyBlueStudios, a small indie game and software development studio based in the UK. We have a medium sized team working on some big projects including our flagship game, [S.C.A.N.](https://scangame.optb.qzz.io).
 
 > [!NOTE]
 > We are NOT hiring- this is a private studio (sorry!)
